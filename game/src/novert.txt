@@ -1,0 +1,12 @@
+This utility was written by Istvan Pataki (deity@sch.bme.hu).
+
+novert.com is a terminate-and-stay-resident program,
+for the purpose to turn off vertical movement of the
+mouse in DOS-based games (DOOM especially).
+
+Usage:
+Type "novert" in DOS or a DOS window for turning it on,
+and type "novert /u" to turn it off.
+
+If you encounter any bugs/weird behaviour, you can
+contact the author at his email address.
